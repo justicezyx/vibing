@@ -1,0 +1,2 @@
+# vibing
+Vibe coding repo
